@@ -1,0 +1,12 @@
+TAGS: 
+nav -> Essa tag define um conteúdo de navegação. Portanto, é muito utilizado em conjunto com listas e na criação de menus;
+
+header -> Essas tags definem um cabeçalho. Portanto, todo conteúdo que estiver dentro dela faz parte de um cabeçalho, podendo ser utilizado dentro de outras sessões. Não confundir com as tags <head>; 
+
+section -> Cria uma seção p/ á pág;
+
+article -> basicamente essa TAG classifica um artigo escrito dentro do site, ela pode ficar também dentro de section;
+
+aside -> Essas tags representam uma seção de uma página cujo conteúdo é tangencialmente relacionado ao conteúdo do seu entorno, que poderia ser considerado separado do conteúdo//Coisas perifericas, por exemplo o nome do autor;
+
+footer ->  Essas tags definem um rodapé para a página, geralmente utilizadas no final da página;
